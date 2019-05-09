@@ -1,0 +1,6 @@
+{
+  "string": {
+    "xmlns": "http://schemas.microsoft.com/2003/10/Serialization/",
+    "$t": "<protocolo id='1907834' resultado='0'><sinal idPaquete='1907834' ID='020003' Fecha='2019-04-25 12:56:00.000' Error=0 /><sinal idPaquete='1907834' ID='020003' Fecha='2019-04-25 12:56:28.000' Error=0 /><sinal idPaquete='1907834' ID='020003' Fecha='2019-04-25 12:57:00.000' Error=0 /><sinal idPaquete='1907834' ID='020003' Fecha='2019-04-25 12:57:20.000' Error=0 /><sinal idPaquete='1907834' ID='020003' Fecha='2019-04-25 12:58:00.000' Error=0 /></protocolo>"
+  }
+}
